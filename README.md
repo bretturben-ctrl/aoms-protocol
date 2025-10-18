@@ -2,6 +2,8 @@
 
 **A Decision Protocol for Dialectical Navigation** — a griftless, reproducible framework that combines ontological coherence and phenomenological evidence.
 
+https://gnosisunderfire.com/2025/10/17/the-grand-unified-theory-of-phenomenal-plausibility/
+
 ## Quick Start
 1. Read **PROTOCOL.md** (or the blog post) for the full method.
 2. Use the **plausibility_ledger.csv** to log decisions (N-of-1 friendly).
