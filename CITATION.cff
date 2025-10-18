@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: >-
+  If you use this work, please cite it using the metadata below.
+title: "AOMS Protocol v1.1 — The Grand Unified Theory of Phenomenal Plausibility"
+version: "v1.1"
+date-released: "2025-10-18"
+authors:
+  - family-names: Urben
+    given-names: Brett W.
+    name: "Synechistes/Brett W. Urben"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+abstract: >-
+  A practical decision protocol that combines ontological-mathematical coherence
+  with phenomenological evidence. Hypotheses are scored with P0·E·C·ρ, normalized
+  across candidates, and acted upon at an operational threshold of P* ≥ 0.51
+  (with a higher threshold under a state guardrail). Includes Maze Tax, continuity
+  anchors, and a synchronicity rubric. Licensed CC BY-NC-SA 4.0.
+license: "CC-BY-NC-SA-4.0"
+keywords:
+  - AOMS
+  - phenomenal plausibility
+  - ontological mathematics
+  - phenomenology
+  - decision science
+  - dialectic
+repository-code: "https://github.com/bretturben-ctrl/aoms-protocol"
+preferred-citation:
+  type: report
+  title: "AOMS Protocol v1.1 — The Grand Unified Theory of Phenomenal Plausibility"
+  authors:
+    - family-names: Urben
+      given-names: Brett W.
+      name: "Synechistes/Brett W. Urben"
+  year: 2025
+  notes: "Version v1.1. CC BY-NC-SA 4.0."
